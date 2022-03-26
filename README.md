@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farishai
 - 👀 I’m interested in developing websites using HTML and CSS
-- 🌱 I’m currently learning Frontend website development
+- 🌱 I’m currently learning Full Stack website development
 - 💞️ I’m looking to collaborate on projects
 - 📫 Just send me an email to faarishiraaf.af@gmail.com
 
